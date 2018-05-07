@@ -1,5 +1,7 @@
 # Molecule
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Molecule-JS/molecule.svg)](https://greenkeeper.io/)
+
 Implements [lit-html](https://github.com/PolymerLabs/lit-html) via a LitElement class. Made for custom Elements.
 
 [![Build Status](https://travis-ci.org/Molecule-JS/molecule.svg?branch=master)](https://travis-ci.org/Molecule-JS/molecule)
